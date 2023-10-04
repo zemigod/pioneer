@@ -1,5 +1,1 @@
-console.log("big")
-
-//git checkout -b [branch to create]
-//git add [what files you changed, could do * for all]
-//git push origin [your branch]
+console.log("Hello, Partner 1 was here!")

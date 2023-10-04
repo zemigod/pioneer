@@ -1,4 +1,4 @@
-console.log("hot dog")
+console.log("big")
 
 //git checkout -b [branch to create]
 //git add [what files you changed, could do * for all]
